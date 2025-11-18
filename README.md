@@ -34,3 +34,12 @@ The goal is to understand salary trends across roles, experience levels, countri
 
 ## 🧠 Tech Stack
 - **Python**
+- **Pandas, NumPy**
+- **Matplotlib, Seaborn**
+- **Scikit-Learn**
+- **SHAP**
+- **Google Colab**
+
+---
+
+## 📁 Project Structure
